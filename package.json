@@ -1,0 +1,20 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "第一个 npm 仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timo1216/npm-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timo1216/npm-demo/issues"
+  },
+  "homepage": "https://github.com/Timo1216/npm-demo#readme"
+}
